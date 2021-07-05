@@ -9,4 +9,7 @@ gallery:
   - /img/spag4.jpeg
   - /img/spag5.jpeg
 ---
+
+This is a spagetti excerpt 
+<!-- more -->
 Spagetti is wonderful. Unfortnately it has lots of carbs
